@@ -177,8 +177,7 @@ jupyter notebook Financials_EDA.ipynb
 **Bukunmi Damilola Olokede**  
 Data Analyst | Python | SQL | Power BI
 
-[![LinkedIn](www.linkedin.com/in/bukunmi-damilola-099341195)
-[![GitHub] bukunmidamilolaolokede (https://github.com/bukunmidamilolaolokede)
+📧 bukunmidamilolaolokede@gmail.com | 💼 www.linkedin.com/in/bukunmi-damilola-099341195
 
 ---
 
